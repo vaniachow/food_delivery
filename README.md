@@ -41,12 +41,10 @@ Follow these instructions to use the project:
 4. The generated graphs will be displayed as follows:
 
    ### Relationship Between Time Taken and Distance
-   
-   ![Scatter Plot: Time Taken vs. Distance](/Users/vaniachow/Desktop/Screenshots/Screenshot 2023-05-28 at 4.50.49 PM.png)
+   <img width="1315" alt="Screenshot 2023-05-28 at 4 50 49 PM" src="https://github.com/vaniachow/food_delivery/assets/128643326/37858306-11e4-462e-b8fd-957f5ee72d8a">
    
    ### Relationship Between Time Taken and Number of Items per Trip
-   
-   ![Scatter Plot: Time Taken vs. Number of Items per Trip](/Users/vaniachow/Desktop/Screenshots/Screenshot 2023-05-28 at 4.51.02 PM.png)
+   <img width="1204" alt="Screenshot 2023-05-28 at 4 51 02 PM" src="https://github.com/vaniachow/food_delivery/assets/128643326/a09da5f5-ec62-41e0-a4d1-0ad4da22dfbe">
 
 5. Next, an LSTM model will be built to make predictions.
 6. The model will be trained using the dataset, and the training progress will be displayed.
